@@ -27,4 +27,5 @@
   const cat = new Animal("Billi ki AKh", "cat", "meaw meaw");
 
   cat.makeSound();
+  dog.makeSound();
 }
